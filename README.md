@@ -12,6 +12,7 @@ In this repository, you can find the solutions (as source code) for the problems
 ### How to Contribute (Updated)
 - For contributions in this repository, please read `CONTRIBUTING.md` first. (Please pull the changes from this repo if you have already forked the repository and are facing conflicts)
 - If you like the repository, please star it.
+- And don't forget to add your user name and profile URL link in README.md,
 
 ### Learning Resources
 
@@ -23,4 +24,4 @@ In this repository, you can find the solutions (as source code) for the problems
 
 | Name                                                                                                                               | Country               | Programming Language           | Where to find you<br><sup>(add all links to your profiles eg on Hackerrank, Codechef...)</sup>|
 |------------------------------------------------------------------------------------------------------------------------------------|-----------------------|--------------------------------|-----------------------------------------------------------------------------------------------|
-| [Yashwant Aditya](https://github.com/yashwantaditya009/) <br> <img src="https://github.com/yashwantaditya009.png" width="100" height="100">               | INDIA             | Python                            |   [Hackerrank](https://www.hackerrank.com/yashwantaditya01?hr_r=1)                                                           
+| [Yashwant Aditya](https://github.com/yashwantaditya009/) <br> <img src="https://github.com/yashwantaditya009.png" width="100" height="100">               | INDIA             | Python, SQL, R                            |   [Hackerrank](https://www.hackerrank.com/yashwantaditya01?hr_r=1)                                                           
