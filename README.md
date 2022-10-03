@@ -32,3 +32,4 @@ In this repository, you can find the solutions (as source code) for the problems
 | [Akarsh Singh](https://github.com/Mohit-Kukreja-2002/) <br> <img src="https://github.com/Mohit-Kukreja-2002.png" width="100" height="100">               | INDIA             | Python                          |
 | [Om Gaydhane](https://github.com/omgaydhane) <br> <img src="https://avatars.githubusercontent.com/u/97527568?v=4" width="100" height="100">               | INDIA             | Python                         |
 | [Souvik Datta](https://github.com/souvik0306/) <br> <img src="https://avatars.githubusercontent.com/u/55232104?v=4" width="100" height="100">               | INDIA             | Python                          |
+| [Akash Nayak](https://github.com/codedmachine111/) <br> <img src="https://avatars.githubusercontent.com/u/88738817?v=4" width="100" height="100">               | INDIA             | Java                          |
