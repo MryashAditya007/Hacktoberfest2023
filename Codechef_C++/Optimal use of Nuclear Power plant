@@ -1,0 +1,52 @@
+// link:https://www.codechef.com/submit/KOL16G?tab=statement
+#include <bits/stdc++.h>
+using namespace std;
+
+int T;
+double D_avg, d_min;
+
+double f(double x, double r) {
+    double Y = sqrt(r*r - x*x), a = r+d_min-x, tmp = sqrt(a*a + Y*Y);
+    return 0.5 * (Y * tmp + a*a * log((Y + tmp) / a));
+}
+
+double g(double x, double r) {
+    double L = r+d_min-x, tmp = r+d_min;
+    double theta = acos((-r*r + L*L + tmp*tmp) / (2*L*tmp));
+    return L * L * theta;
+}
+
+double getavg(double r) {
+    int divs = 10000;
+    double h = 2*r/divs, V = 0.0;
+    for(double x=-r; x<=r; x+=h)
+        V += g(x, r);  // or f(x, r)
+    V *= 2.0 * h;
+    return V / (M_PI * r * r);
+}
+
+double solve() {
+    double hi = D_avg, lo = 0.0, mid, eps = 1e-5;
+    while(hi - lo > eps) {
+        mid = (lo + hi) / 2.0;
+        if(getavg(mid) < D_avg)
+            lo = mid;
+        else
+            hi = mid;
+    }
+    return mid;
+}
+
+int main() {
+    ios_base::sync_with_stdio(false); cin.tie(NULL);
+
+    cin >> T;
+    cout.precision(4);
+    cout << fixed;
+    while(T--) {
+        cin >> D_avg >> d_min;
+        cout << solve() << "\n";
+    }
+
+    return 0;
+}
