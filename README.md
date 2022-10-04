@@ -36,4 +36,5 @@ In this repository, you can find the solutions (as source code) for the problems
 | [Akash Nayak](https://github.com/codedmachine111/) <br> <img src="https://avatars.githubusercontent.com/u/88738817?v=4" width="100" height="100">               | INDIA             | Java                          |
 | [Pratik Singh](https://github.com/Pratik-11/) <br> <img src="https://github.com/Pratik-11.png" width="100" height="100">               | INDIA             | Java, Python, Javascript                           |
 | [Naman Kumar](https://github.com/Grax01) <br> <img src="https://user-images.githubusercontent.com/74151131/193870323-cb309a19-837c-412e-99fa-7f42562489c8.jpg" width="100" height="100">               | INDIA             | C++    |  [Codechef](https://www.codechef.com/users/naman_123123)                      
+| [Pratik Singh](https://github.com/TheDarkLord100/) <br> <img src="https://github.com/TheDarkLord100.png" width="100" height="100">               | INDIA             | Java, C                          |
 
