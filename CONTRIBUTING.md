@@ -29,7 +29,7 @@ $ git remote add upstream https://github.com/[Original Owner Username]/[Original
 ```
 Hence, in this repository it would be
 ```javascript
-$ git remote add upstream https://github.com/MryashAditya007/Open_for_Contributors.git/
+$ git remote add upstream https://github.com/MryashAditya007/Hacktoberfest2022.git/
 ```
 
 2. Fetch all the changes from the repository. Note that commits to the original repository will be stored in a local branch called, upstream/master
