@@ -40,4 +40,5 @@ In this repository, you can find the solutions (as source code) for the problems
 | [Hari om](https://github.com/hariom09090/) <br> <img src="https://github.com/hariom09090.png" width="100" height="100">               | INDIA             | C, C++, Java, Python                          | [HackerRank](https://www.hackerrank.com/hariom09090)   |
 | [Madhusudhana Naidu](https://github.com/E0NIA) <br> <img src="https://avatars.githubusercontent.com/u/84952824?v=4" width="100" height="100">               | INDIA             | Python, C++,C                      |
 | [Mohit Prajapat](https://github.com/Mohitt0/) <br> <img src="https://avatars.githubusercontent.com/u/100951304?s=400&u=255edaad03c0ec2bbe05f184165effca1760d4a3&v=4" width="100" height="100">               | INDIA             | C++     C    JAVA |  [HackerRank](https://www.hackerrank.com/mohitprajapat916)
-
+| [Manav Pahilwani](https://github.com/Hamilton122002)  <br> <img src="https://github.com/Hamilton122002.png" width="100" height="100">               | INDIA             |  Python                          |  
+| [AnuragGupta](https://github.com/AnuragGupta806)  <br> <img src="https://github.com/AnuragGupta806.png" width="100" height="100">               | INDIA             |  Python                          |
