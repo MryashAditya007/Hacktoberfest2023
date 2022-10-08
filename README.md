@@ -44,3 +44,4 @@ In this repository, you can find the solutions (as source code) for the problems
 | [AnuragGupta](https://github.com/AnuragGupta806)  <br> <img src="https://github.com/AnuragGupta806.png" width="100" height="100">               | INDIA             |  Python                          |
 | [dsnoeijer](https://github.com/dsnoeijer) <br> <img src="https://avatars.githubusercontent.com/u/88512452?v=4" width="100" height="100">          |  the Netherlands          |  Python, Javascript          |
 | [Vishal Kacha](https://github.com/Kachavishal)  <br> <img src="https://github.com/Kachavishal.png" width="100" height="100">               | INDIA             |  Python
+| [Max Muller](https://github.com/mmvonnseek)  <br> <img src="https://github.com/mmvonnseek.png" width="100" height="100">               | BRASIL             |  Python
