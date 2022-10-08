@@ -43,5 +43,9 @@ In this repository, you can find the solutions (as source code) for the problems
 | [Manav Pahilwani](https://github.com/Hamilton122002)  <br> <img src="https://github.com/Hamilton122002.png" width="100" height="100">               | INDIA             |  Python                          |  
 | [AnuragGupta](https://github.com/AnuragGupta806)  <br> <img src="https://github.com/AnuragGupta806.png" width="100" height="100">               | INDIA             |  Python                          |
 | [dsnoeijer](https://github.com/dsnoeijer) <br> <img src="https://avatars.githubusercontent.com/u/88512452?v=4" width="100" height="100">          |  the Netherlands          |  Python, Javascript          |
-| [Vishal Kacha](https://github.com/Kachavishal)  <br> <img src="https://github.com/Kachavishal.png" width="100" height="100">               | INDIA             |  Python
+| [Vishal Kacha](https://github.com/Kachavi)  <br> <img src="https://github.com/Kachavi.png" width="100" height="100">               | INDIA             |  Python
 | [Max Muller](https://github.com/mmvonnseek)  <br> <img src="https://github.com/mmvonnseek.png" width="100" height="100">               | BRASIL             |  Python
+| [BhaswatiR](https://github.com/BhaswatiR)  <br> <img src="https://github.com/BhaswatiR.png" width="100" height="100">               | INDIA |  Python
+| [W.D. Snoeijer](https://github.com/dsnoeijer)  <br> <img src="https://github.com/dsnoeijer.png" width="100" height="100">               | NEW YORK |  Python
+| [Kushantha](https://github.com/kushantha-sajith)  <br> <img src="https://github.com/kushantha-sajith.png" width="100" height="100">               | INDIA |  Python
+| [Maheshkanhere](https://github.com/Maheshkanhere)  <br> <img src="https://github.com/Maheshkanhere.png" width="100" height="100">               | INDIA |  Python
