@@ -50,3 +50,4 @@ In this repository, you can find the solutions (as source code) for the problems
 | [Kushantha](https://github.com/kushantha-sajith)  <br> <img src="https://github.com/kushantha-sajith.png" width="100" height="100">               | INDIA |  Python
 | [Maheshkanhere](https://github.com/Maheshkanhere)  <br> <img src="https://github.com/Maheshkanhere.png" width="100" height="100">               | INDIA |  Python
 | [divyasahni](https://github.com/divyasahni)  <br> <img src="https://avatars.githubusercontent.com/u/79361261?v=4" width="100" height="100">               | INDIA |  Python
+| [Abhinav Banerjee](https://github.com/Banerjee2021)  <br> <img src="https://avatars.githubusercontent.com/u/93896952?v=4" width="100" height="100">               | INDIA |  Java
