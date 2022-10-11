@@ -53,3 +53,4 @@ In this repository, you can find the solutions (as source code) for the problems
 | [Abhinav Banerjee](https://github.com/Banerjee2021)  <br> <img src="https://avatars.githubusercontent.com/u/93896952?v=4" width="100" height="100">               | INDIA |  Java
 | [Tandrima Singha](https://github.com/tandrimasingha)  <br> <img src="https://avatars.githubusercontent.com/u/78292851?v=4" width="100" height="100">               | INDIA |  Python
 | [Garvit414](https://github.com/Garvit414)  <br> <img src="https://avatars.githubusercontent.com/u/103891145?v=4" width="100" height="100">               | INDIA |  Python
+| [Pradhuman Goswami](https://github.com/goswamiprad) <br> <img src="https://avatars.githubusercontent.com/u/71825230?s=400&v=4" width="100" height="100">               | INDIA | Python
