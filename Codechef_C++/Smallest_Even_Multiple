@@ -1,0 +1,14 @@
+class Solution {
+public:
+    int smallestEvenMultiple(int n) {
+        int s;
+
+        if(n%2==0){
+            s=n;
+        }
+        else{
+            s=n*2;
+        }
+        return s;
+    }
+};
