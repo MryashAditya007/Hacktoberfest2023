@@ -37,3 +37,11 @@
 | 1          | 2              | Los Angeles  | California  | USA     |
 | 2          | 3              | Denver       | Colorado    | USA     |
 | 3          | 4              | Atlanta      | Georgia     | USA     |
+
+## Sample output:
+
+first_name|last_name|city       |state     |
+----------|---------|-----------|----------|
+Jones     |Collins  |Los Angeles|California|
+Bryant    |Davis    |Denver     |Colorado  |
+Green     |Wright   |           |          |
