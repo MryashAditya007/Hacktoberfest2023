@@ -54,4 +54,3 @@ In this repository, you can find the solutions (as source code) for the problems
 | [Tandrima Singha](https://github.com/tandrimasingha)  <br> <img src="https://avatars.githubusercontent.com/u/78292851?v=4" width="100" height="100">               | INDIA |  Python
 | [Garvit414](https://github.com/Garvit414)  <br> <img src="https://avatars.githubusercontent.com/u/103891145?v=4" width="100" height="100">               | INDIA |  Python
 | [Pradhuman Goswami](https://github.com/goswamiprad) <br> <img src="https://avatars.githubusercontent.com/u/71825230?s=400&v=4" width="100" height="100">               | INDIA | Python
-| [Vanshaj Bhatnagar](https://github.com/kraizan) <br> <img src="https://avatars.githubusercontent.com/u/63310123?v=4" width="100" height="100">               | INDIA | C++, C, JavaScript | [LinkedIn](https://www.linkedin.com/in/vanshaj-bhatnagar/)
