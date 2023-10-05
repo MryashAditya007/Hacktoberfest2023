@@ -18,7 +18,7 @@ In this repository, you can find the solutions (as source code) for the problems
 
 ### LEARNING RESOURCES TO BE FOLLOWED:
 
-[Creating a pull request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request)
+[Creating a pull request](https://docs.github.com/en/p)
 
 [Learn the Git basics](https://try.github.io)
 
