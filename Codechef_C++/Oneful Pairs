@@ -1,0 +1,17 @@
+#include <iostream>
+using namespace std;
+
+int main() {
+    int a;
+    int b;
+    cin>>a;
+    cin>>b;
+    if((a+b+(a*b))==111){
+        cout<<"YES";
+    }
+    else{
+        cout<<"NO";
+    }
+	// your code goes here
+	return 0;
+}
