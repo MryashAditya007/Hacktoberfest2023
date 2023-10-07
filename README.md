@@ -22,9 +22,9 @@ In this repository, you can find the solutions (as source code) for the problems
 
 ## OUR CONTRIBUTORS:
 
-| Name                                                                                                                               | Country               | Programming Language           | Where to find you<br><sup>(add all links to your profiles eg on Hackerrank, Codechef...)</sup>|
+| Name                                                                                                                               | Country               | Programming Language           | Where to find you<br><sup>(add all links to your profiles eg on Hackerrank, Codechef or LinkedIn.)</sup>|
 |------------------------------------------------------------------------------------------------------------------------------------|-----------------------|--------------------------------|-----------------------------------------------------------------------------------------------|
-| [Yashwant Aditya](https://github.com/yashwantaditya009/) <br> <img src="https://github.com/yashwantaditya009.png" width="100" height="100">               | INDIA             | Python, SQL, R                            |   [Hackerrank](https://www.hackerrank.com/yashwantaditya01?hr_r=1)                                                           
+| **[Yashwant Aditya](https://github.com/yashwantaditya009/)** <br> <img src="https://github.com/yashwantaditya009.png" width="100" height="100">               | INDIA             | Python, SQL, R                            |   **[Hackerrank](https://www.hackerrank.com/yashwantaditya01?hr_r=1)**, **[Linkedin](https://www.linkedin.com/in/yashwant-kumar-aditya-4753151b5/)**                                                         
 | [Sayam Agarwal](https://github.com/Sayam241020/) <br> <img src="https://avatars.githubusercontent.com/u/97225527?s=400&u=ccecb60052e55d008c8ee1c26f023839230f0712&v=4" width="100" height="100">               | INDIA             | Python                           |   [Codechef](https://www.codechef.com/users/sayam241020)
 | [Ragini Singh](https://github.com/raginiisingh/) <br> <img src="https://github.com/raginiisingh.png" width="100" height="100">               | INDIA             | JAVA 
 | [Sharayu Banait](https://github.com/sharayu1071/) <br> <img src="https://github.com/sharayu1071.png" width="100" height="100">               | INDIA             | CPP 
@@ -54,4 +54,3 @@ In this repository, you can find the solutions (as source code) for the problems
 | [Tandrima Singha](https://github.com/tandrimasingha)  <br> <img src="https://avatars.githubusercontent.com/u/78292851?v=4" width="100" height="100">               | INDIA |  Python
 | [Garvit414](https://github.com/Garvit414)  <br> <img src="https://avatars.githubusercontent.com/u/103891145?v=4" width="100" height="100">               | INDIA |  Python
 | [Pradhuman Goswami](https://github.com/goswamiprad) <br> <img src="https://avatars.githubusercontent.com/u/71825230?s=400&v=4" width="100" height="100">               | INDIA | Python
-| [Shaswata Saha](https://github.com/subhro1530) <br> <img src="https://avatars.githubusercontent.com/u/113383437?v=4" width="100" height="100">               | INDIA | Java
