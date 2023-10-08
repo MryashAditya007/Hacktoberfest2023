@@ -3,23 +3,23 @@ const weight = document.getElementById('weight');
 const button = document.getElementById('button');
 const app = document.getElementById('app');
 
-let BmiValuedocument = document.createElement('h2');
-BmiValuedocument.classList.add('output')
-let clearButton = document.createElement('button');
-clearButton.classList.add('button')
+let BmiValuedocument = document.createElement('h2'); //creates an element to store output BMI
+BmiValuedocument.classList.add('output')//add a class name of output
+let clearButton = document.createElement('button'); //create a button to vlean the output 
+clearButton.classList.add('button') //add a class name of button
 clearButton.innerText = 'Clear'
 
 clearButton.addEventListener('click',()=>{
-    app.removeChild(BmiValuedocument)
+    app.removeChild(BmiValuedocument) //removes the output
 })
 
-
+//when the button is clicked ......
 button.addEventListener('click',()=>{
-    let heightValue  = parseInt(height.value);
-    let weightValue = parseInt(weight.value);
-    let BMI = weightValue/(heightValue/100)**2;
+    let heightValue  = parseInt(height.value);    //converts height string to an integer
+    let weightValue = parseInt(weight.value);     //converts height string to an integer
+    let BMI = weightValue/(heightValue/100)**2;       
   
-    app.appendChild(clearButton)
+    app.appendChild(clearButton)    
    
     if( isNaN(BMI)){
         BmiValuedocument.innerText = 'Invalid: You Must add both your height and weight!';
