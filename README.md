@@ -62,7 +62,3 @@ In this repository, you can find the solutions (as source code) for the problems
 | [Akash Rout](https://github.com/iamakashrout) <br> <img src="https://avatars.githubusercontent.com/u/116869015?v=4" width="100" height="100">               | INDIA             | C++, Python, JavaScript                          |   [LeetCode](https://leetcode.com/iamakashrout) 
 | [Manjunath Irukulla](https://github.com/yoursmanjunad) <br> <img src="https://github.com/yoursmanjunad.png" width = "100" height="100"> | India | Java | [LinkedIn](https://www.linkedin.com/in/manjunathdevops/)
 | [VAIBHAV_BHATT]((https://github.com/vaibhav211002)) <br> <img src="https://github.com/vaibhav211002.png" width = "100" height="100"> | India | C++ | [LinkedIn](https://www.linkedin.com/in/vaibhav-bhatt-900b46210/)
-|[Akshay raj N](https://github.com/AkshayrajN)<br> <img src="https://avatars.githubusercontent.com/u/94297346?v=4" width="100" height="100">         |INDIA   | C++
-| [Rhitik Nimbalkar](https://github.com/nrhitik) <br> <img src="https://github.com/nrhitik.png" width="100" height="100">               | INDIA             | Python,C++,C
-| [Shaswata Saha](https://github.com/subhro1530) <br> <img src="https://avatars.githubusercontent.com/u/113383437?v=4" width="100" height="100">               | INDIA | Java
-| [Vishal Kesharwani](https://github.com/vishal10kesharwani) <br> <img src="https://avatars.githubusercontent.com/u/?v=4" width="100" height="100">               | INDIA | Java
