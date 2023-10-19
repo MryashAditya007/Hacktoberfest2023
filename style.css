@@ -1,0 +1,49 @@
+body{
+    background: url("calci_bg.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    overflow: hidden;
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+.calculator {
+    background-color: #e3e3e3;
+    border-radius: 5px;
+    width: 400px;
+    padding: 10px;
+    text-align: center;
+}
+
+.display input {
+    width: 90%;
+    padding: 10px;
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+
+.buttons .row {
+    display: flex;
+    justify-content: space-between;
+}
+
+.buttons button {
+    width: 23%;
+    height: 70px;
+    font-size: 24px;
+    margin: 5px;
+    border: none;
+    border-radius: 5px;
+    background-color: #212121;
+    color: white;
+    cursor: pointer;
+}
+
+.buttons button:hover {
+    background-color: #555;
+}
