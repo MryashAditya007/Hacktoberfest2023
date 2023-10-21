@@ -67,3 +67,4 @@ In this repository, you can find the solutions (as source code) for the problems
 | [Rhitik Nimbalkar](https://github.com/nrhitik) <br> <img src="https://github.com/nrhitik.png" width="100" height="100">               | INDIA             | Python,C++,C
 | [Shaswata Saha](https://github.com/subhro1530) <br> <img src="https://avatars.githubusercontent.com/u/113383437?v=4" width="100" height="100">               | INDIA | Java
 | [Vishal Kesharwani](https://github.com/vishal10kesharwani) <br> <img src="https://github.com/vishal10kesharwani.png" width="100" height="100">               | INDIA | Java
+| [Shubham Pandey](https://github.com/shubhampandey45) <br> <img src="https://avatars.githubusercontent.com/u/105074712?v=4" width="100" height="100">               | INDIA | Python
